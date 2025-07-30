@@ -8,7 +8,7 @@ A React-based web application that allows users to search for GitHub profiles by
 
 ![GitHub Finder Demo](./screenshot.png)
 
-> Replace the above image path with your own screenshot or hosted image URL.
+
 
 ---
 
