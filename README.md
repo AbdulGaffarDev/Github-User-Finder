@@ -37,7 +37,7 @@ A React-based web application that allows users to search for GitHub profiles by
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/github-finder.git
+git clone https://github.com/AbdulGaffarDev/Github-User-Finder.git
 cd github-finder
 npm install
 npm start
