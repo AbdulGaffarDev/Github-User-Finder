@@ -5,9 +5,9 @@ A simple and responsive GitHub user search app built with **React** and **Tailwi
 ---
 
 ## 📸 Preview
-
-<img src="src/assets/preview.jpg" alt="App preview" width="600" />
-
+<p align="center">
+  <img src="public/preview.png" alt="App preview" width="600" />
+</p>
 ---
 
 ## 🚀 Features
@@ -36,6 +36,6 @@ A simple and responsive GitHub user search app built with **React** and **Tailwi
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/github-user-finder.git
+git clone https://github.com/AbdulGaffarDev/github-user-finder.git
 cd github-user-finder
 npm install
