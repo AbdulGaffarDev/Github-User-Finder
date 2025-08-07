@@ -39,3 +39,9 @@ Clone the repository and install dependencies:
 git clone https://github.com/AbdulGaffarDev/github-user-finder.git
 cd github-user-finder
 npm install
+
+---
+
+## 🌐 Live Demo
+
+👉 [Click here to view the live app](https://abdulgaffardev.github.io/Github-User-Finder/)
